@@ -1,6 +1,6 @@
 # War Card Game
 
-A simple War card game implemented in Python.
+A simple War card game implemented in Python using Object Oriented Programming (OOP).
 
 ## Objective
 
